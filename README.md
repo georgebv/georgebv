@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-My name is George and I am an engineer and a software developer. I am from Hoboken, New Jersey, and I am currently working at [COWI](https://www.cowi.com/). I have started developing software in 2016 when I learned Python and since then I have been passionate about learning new tech and developing applications.
+My name is George and I am a software developer. I am from Hoboken, New Jersey, and I am currently working at [kicksaw](https://www.kicksaw.com/). I have started developing software in 2016 when I learned Python and since then I have been passionate about learning new tech and developing applications.
 
 I am a life long learner. I hold two MS degrees in engineering and am currently preparing for a third MS degree in Computer Science.
 
